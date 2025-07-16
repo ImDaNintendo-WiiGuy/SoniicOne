@@ -1,5 +1,6 @@
 # SoniicOne
 An (RSDKv5 decompilation) Sonic 1 port for the Wii
+
 Install instructions:
 1. Download latest release
 2. Extract ZIP
